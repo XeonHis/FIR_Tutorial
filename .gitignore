@@ -1,0 +1,9 @@
+# idea temp file
+.idea/
+
+# DS_Store
+.DS_Store
+*/.DS_Store
+
+# pycache
+__pycache__/
